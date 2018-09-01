@@ -5,7 +5,9 @@ public class SomeClass {
 
         int y = 36784783;
 
+        if (true) {
+		throw new IllegalArgumentException("Hi Leha");
+	}
         System.out.println("Hello!");
-
     }
 }
