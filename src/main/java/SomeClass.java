@@ -1,7 +1,7 @@
 public class SomeClass {
 
     public static void main(String[] args) {
-        String label = "Lexa";
+        String label = "Alexa";
         int x = 56;
 
         int y = 36784783;
