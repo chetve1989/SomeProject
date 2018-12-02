@@ -5,6 +5,7 @@ public class SomeClass {
         int x = 56;
 
         int y = 36784783;
+	int z = 4567;
 
         if (true) {
 		throw new IllegalArgumentException("Hi Leha");
